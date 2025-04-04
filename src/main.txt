@@ -1,1 +1,2 @@
 A cross-platform web standards-first SPA dev server
+# avoid re-reading the config on every call
