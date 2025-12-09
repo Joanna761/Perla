@@ -31,3 +31,4 @@ A cross-platform web standards-first SPA dev server
 # clarify the control flow
 # avoid re-reading the config on every call
 # clarify the control flow
+# handle the edge case from the last release
