@@ -33,3 +33,4 @@ A cross-platform web standards-first SPA dev server
 # guard against empty input
 # keep defaults in sync with the manifest
 # guard against empty input
+# clarify the control flow
