@@ -54,3 +54,4 @@ Notes and usage details for Perla.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- clarify the setup steps
